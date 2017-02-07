@@ -1,1 +1,1 @@
-# Οδηγίες σχετικά με τη δημιουργία branched και fork request
+# Οδηγίες σχετικά με τη δημιουργία branch και fork request
