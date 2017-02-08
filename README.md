@@ -14,7 +14,7 @@
 
 ###3. Κάνε κλικ στο create branch για να δημιουργήσεις το προσωπικό σου Branch.
 
-![ScreenShot](1.png)
+![ScreenShot](images/1.png)
 
 
 ## Δημιουργία φακέλου
