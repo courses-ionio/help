@@ -9,7 +9,7 @@
 
 - [x] Για **εγγραφή** στο μάθημα (github), πατήστε [εδώ](https://github.com/courses-ionio/register/blob/master/registration.md).
 - [x] Για **επεξεργασία** και **υποβολή** παραδοτέου, πατήστε [εδώ](https://github.com/courses-ionio/register/blob/master/productsubmit.md).
-Επισήμανση: Σε κάθε υποβολή παραδοτέου, θα πρέπει στα σχόλια του αντίστοιχου **pull request** να συμπεριλαμβάνετε στα **λατινικά**: τον **Α.Μ.**, το **ονοματεπώνυμό** σας, καθώς και τον **τίτλο του μαθήματος**.
+**Επισήμανση**: *Σε κάθε υποβολή παραδοτέου, θα πρέπει στα σχόλια του αντίστοιχου **pull request** να συμπεριλαμβάνετε στα **λατινικά**: τον **Α.Μ.**, το **ονοματεπώνυμό** σας, καθώς και τον **τίτλο του μαθήματος**.*
 - [x] Για **προσθήκη εικόνας**, πατήστε [εδώ](https://github.com/courses-ionio/register/blob/master/insertimage.md).
 - [x] Για **διαγραφή** αρχείου, πατήστε [εδώ](https://github.com/courses-ionio/register/blob/master/delete.md).
 
