@@ -1,5 +1,7 @@
 # Οδηγίες
 
+[![Join the chat at https://gitter.im/courses-ionio/help](https://badges.gitter.im/courses-ionio/help.svg)](https://gitter.im/courses-ionio/help?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Συχνές ερωτήσεις και απαντήσεις για τις εργασίες](faq/)
 
 ## Απορίες και ηλεκτρονικά φροντιστήρια 
