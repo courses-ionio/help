@@ -4,7 +4,7 @@
 
 [Ανακοινώσεις](https://github.com/courses-ionio/help/issues)
 
-[Διαθέσιμες εργασίες](https://courses-ionio.github.io/projects/)
+[Διαθέσιμες εργασίες και προθεσμίες για παραδοτέα](https://courses-ionio.github.io/projects/)
 
 [Συχνές ερωτήσεις και απαντήσεις για τις εργασίες](faq/)
 
