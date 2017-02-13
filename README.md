@@ -1,8 +1,12 @@
 # Οδηγίες
 
-[![Join the chat at https://gitter.im/courses-ionio/help](https://badges.gitter.im/courses-ionio/help.svg)](https://gitter.im/courses-ionio/help?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[Eγγραφή στην πλατφόρμα του GitHub](https://help.github.com/categories/setup/)
 
 [Συχνές ερωτήσεις και απαντήσεις για τις εργασίες](faq/)
+
+[Ανακοινώσεις για όλα τα μαθήματα](https://github.com/courses-ionio/help/issues)
+
+[![Join the chat at https://gitter.im/courses-ionio/help](https://badges.gitter.im/courses-ionio/help.svg)](https://gitter.im/courses-ionio/help?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Απορίες και ηλεκτρονικά φροντιστήρια 
 Αν η απορία που έχετε δεν έχει ήδη απαντηθεί στις [συχνές ερωτήσεις](faq/) ή στα issues του github (πάνω αριστερά το κουμπάκι issues με το θαυμαστικό), τότε μπορείτε να δημιουργήσετε ένα νέο issue στο οποίο θα θέτετε το ερώτημά σας. Αν η ερώτησή σας αφορά ένα τεχνικό ζήτημα μιας δεδομένης εργασίας θα πρέπει να κάνετε issue στο αποθετήριο της αντίστοιχης εργασίας. Ερωτήσεις σχετικές με τα μαθήματα και τις εργασίες που αποστέλονται με email ή που έχουν απαντηθεί ήδη σε αυτήν την περιοχή θα αγνοούνται. Σε κάθε περίπτωση, ο καλύτερος χώρος για να πάρετε σαφή απάντηση σε ερώτημά σας είναι μέσα στην τάξη. Αν δεν μπορείτε να έρθετε στην τάξη, μπορείτε να κανονίσετε μια ηλεκτρονική συνάντηση με έναν από τους βοηθούς του αντίστοιχου μαθήματος.
