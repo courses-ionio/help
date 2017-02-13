@@ -2,9 +2,9 @@
 
 [Eγγραφή στην πλατφόρμα του GitHub](https://github.com/join)
 
-[Συχνές ερωτήσεις και απαντήσεις για τις εργασίες](faq/)
+[Ανακοινώσεις](https://github.com/courses-ionio/help/issues)
 
-[Ανακοινώσεις για όλα τα μαθήματα](https://github.com/courses-ionio/help/issues)
+[Συχνές ερωτήσεις και απαντήσεις για τις εργασίες](faq/)
 
 [![Join the chat at https://gitter.im/courses-ionio/help](https://badges.gitter.im/courses-ionio/help.svg)](https://gitter.im/courses-ionio/help)
 
