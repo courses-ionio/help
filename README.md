@@ -1,6 +1,6 @@
 # Οδηγίες
 
-[Eγγραφή στην πλατφόρμα του GitHub](https://help.github.com/categories/setup/)
+[Eγγραφή στην πλατφόρμα του GitHub](https://github.com/join)
 
 [Συχνές ερωτήσεις και απαντήσεις για τις εργασίες](faq/)
 
