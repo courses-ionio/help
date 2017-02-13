@@ -4,6 +4,8 @@
 
 [Ανακοινώσεις](https://github.com/courses-ionio/help/issues)
 
+[Διαθέσιμες εργασίες](https://courses-ionio.github.io/projects/)
+
 [Συχνές ερωτήσεις και απαντήσεις για τις εργασίες](faq/)
 
 [![Join the chat at https://gitter.im/courses-ionio/help](https://badges.gitter.im/courses-ionio/help.svg)](https://gitter.im/courses-ionio/help)
