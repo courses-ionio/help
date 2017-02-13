@@ -2,7 +2,7 @@
 
 [Eγγραφή στην πλατφόρμα του GitHub](https://github.com/join)
 
-[Ανακοινώσεις](https://github.com/courses-ionio/help/issues)
+[Εγγραφή σε θέματα ανακοινώσεων για λήψη ειδοποίησης](https://github.com/courses-ionio/help/issues)
 
 [Διαθέσιμες εργασίες και προθεσμίες για παραδοτέα](https://courses-ionio.github.io/projects/)
 
