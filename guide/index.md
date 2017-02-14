@@ -15,7 +15,7 @@
 Αναλυτικές οδηγίες παρέχονται στους συνδέσμους παρακάτω, καθώς και στα επιμέρους αποθετήρια των εργασιών.
 *Οι εικόνες (**screenshots**) των οδηγιών που ακολουθούν είναι ενδεικτικές.*
 
-- [x] Για **εγγραφή** στο μάθημα (github), πατήστε [εδώ](https://github.com/courses-ionio/register/blob/master/registration.md).
+- [x] [**Εγγραφή στο μάθημα**](/help/register/).
 - [x] Για **επεξεργασία** και **υποβολή** παραδοτέου, πατήστε [εδώ](https://github.com/courses-ionio/register/blob/master/productsubmit.md).
 - [x] [**Προσθήκη εικόνας**](/help/image/).
 - [x] [**Διαγραφή** αρχείου](/help/delete/).
