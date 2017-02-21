@@ -42,7 +42,7 @@
 
 ![ScreenShot](/help/images/6.png)
 
-### 7. Άνοιξε ένα νέο pull request με την αλλαγή που ζητάς.
+### 7. Άνοιξε ένα νέο pull request με την αλλαγή που ζητάς. Δώσε όνομα στο pull request τον ΑΜ και το παραδοτέο που στέλνεις πχ 2017ΧΧΧ/παραδοτέοΧ.
 
 ![ScreenShot](/help/images/7.png)
 
