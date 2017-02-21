@@ -34,7 +34,7 @@
 
 ![ScreenShot](/help/images/4.png)
 
-### 5. Κάνε commit στο προσωπικό σου branch (201XXXX). Δώσε όνομα στο commit τον ΑΜ και το παραδοτέο που στέλνεις πχ 2017ΧΧΧ/παραδοτέοΧ. Στο οptional extended description πρέπει να προσθέσεις το ονοματεπώνυμο σου.
+### 5. Κάνε commit στο προσωπικό σου branch (201XXXX). Στο οptional extended description πρέπει να προσθέσεις το ονοματεπώνυμο σου.
 
 ![ScreenShot](/help/images/5.png)
 
