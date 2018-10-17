@@ -31,5 +31,5 @@
 ### 7. Όταν ο διαχειριστής επιτρέψει τις αλλαγές απαντώντας στο pull request τότε οι αλλαγές στο README.md αρχείο θα εμφανιστούν και στο master branch. Μέχρι να απαντήσει ο διαχειριστής οι αλλαγές θα φαίνεται μόνο στο προσωπικό σου branch (201XXXX).
 
 ![ScreenShot](/help/images/16.png)
-![gif](https://user-images.githubusercontent.com/18603174/38465430-3e4f679e-3b24-11e8-91c7-0c71020bb36a.gif)
+![gif](https://user-images.githubusercontent.com/18603174/47072972-e2fe9180-d1ff-11e8-8901-22ff7e80ef6d.gif)
 _[Ένα απλό Tutorial για τη δημιουργία του readme file/αναφορά της εργασίας σας](https://guides.github.com/features/mastering-markdown/)_
