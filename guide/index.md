@@ -46,3 +46,4 @@
 
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
+![](https://imgs.xkcd.com/comics/git.png)
