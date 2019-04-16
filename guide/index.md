@@ -46,4 +46,6 @@
 
 [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
+[Git flight rules](https://github.com/k88hudson/git-flight-rules)
+
 ![](https://imgs.xkcd.com/comics/git.png)
