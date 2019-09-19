@@ -2,9 +2,11 @@
 
 Στο README.md πρέπει να γράψεις το κείμενο της εργασίας σου. Η επεξεργασία του README.md μπορεί να γίνει πάλι από τη σελίδα του Github.
 
+![gif](https://github.com/courses-ionio/help/blob/master/images/Pullrequest.gif?raw=true)
+
 Ακολούθησε τα παρακάτω βήματα για να επεξεργαστείς το αρχείο README.md:
 
-### 1. Αρχικά επίλεξε το branch σου και στη συνέχεια το αρχείο README.md που βρίσκεται στον προσωπικό σου φάκελο.
+### 1. Αρχικά επίλεξε το branch του παραδοτέου και στη συνέχεια το αρχείο README.md που βρίσκεται στον προσωπικό σου φάκελο.
 
 ![ScreenShot](/help/images/10.png)
 
@@ -31,5 +33,6 @@
 ### 7. Όταν ο διαχειριστής επιτρέψει τις αλλαγές απαντώντας στο pull request τότε οι αλλαγές στο README.md αρχείο θα εμφανιστούν και στο master branch. Μέχρι να απαντήσει ο διαχειριστής οι αλλαγές θα φαίνεται μόνο στο προσωπικό σου branch (201XXXX).
 
 ![ScreenShot](/help/images/16.png)
-![gif](https://github.com/courses-ionio/help/blob/master/images/Pullrequest.gif?raw=true)
+
+
 _[Ένα απλό Tutorial για τη δημιουργία του readme file/αναφορά της εργασίας σας](https://guides.github.com/features/mastering-markdown/)_
