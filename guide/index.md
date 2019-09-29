@@ -25,6 +25,10 @@
 * [Github pages](https://github.com/courses-ionio/help/tree/master/pages).
 * [Github CLI and GUI](https://github.com/courses-ionio/help/tree/master/cli).
 
+### Διάγραμμα ροής: Γενικές οδηγίες
+
+![](https://drive.google.com/file/d/1L7uV12DDuHlyfiwbR-22EHIX4kEo9fHy/view)
+
 ### Git(hub) tutorials and workflow
 
 [Διαδραστική εισαγωγή στο Github](https://github.com/marketplace/github-learning-lab)
