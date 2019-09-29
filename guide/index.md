@@ -27,7 +27,7 @@
 
 ### Διάγραμμα ροής: Γενικές οδηγίες
 
-![](https://github.com/courses-ionio/help/blob/master/images/Untitled%20DiagramB1.png)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/Untitled%20DiagramB1.png)
 
 ### Git(hub) tutorials and workflow
 
