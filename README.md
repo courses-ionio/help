@@ -4,7 +4,7 @@
 
 [Εγγραφή σε θέματα ανακοινώσεων για λήψη ειδοποίησης](https://github.com/courses-ionio/help/issues)
 
-[Προθεσμίες και περιεχόμενο ατομικής αναφοράς](https://github.com/courses-ionio/help/blob/master/report/index.md)
+[Προθεσμίες ατομικής αναφοράς](deadlines/)
 
 [Αναλυτικές οδηγίες για την αποστολή αναφοράς εργασίας](guide/)
 
