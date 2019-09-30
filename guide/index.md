@@ -17,7 +17,7 @@
 Αναλυτικές οδηγίες παρέχονται στους συνδέσμους παρακάτω, καθώς και στα επιμέρους αποθετήρια των εργασιών. Οι εικόνες και τα βίντεο των οδηγιών που ακολουθούν είναι ενδεικτικά.
 
 * [**Εγγραφή στο μάθημα**](https://courses-ionio.github.io/help/register/).
-* [**Eπεξεργασία** και **υποβολή** παραδοτέου](https://courses-ionio.github.io/help/submit/).
+* [**Δημιουργία** και **αποστολή** αναφοράς](https://courses-ionio.github.io/help/submit/).
 
 * [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/).
 * [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/).
