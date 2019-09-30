@@ -1,6 +1,6 @@
 # Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου
 
-Στο README.md πρέπει να γράψεις την αναφορά της εργασίας σου και μπορείς να προσθέσεις λινκ και εικόνες. Η δημιουργία και επεξεργασία του README.md μπορεί να γίνει από τη σελίδα του Github, όπως φαίνεται στο παρακάτω υπόδειγμα:
+Στο README.md πρέπει να γράψεις την αναφορά της εργασίας σου και μπορείς να προσθέσεις λινκ και εικόνες. [Η δημιουργία φακέλου](http://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git) και επεξεργασία του README.md μπορεί να γίνει από τη σελίδα του Github, όπως φαίνεται στο παρακάτω υπόδειγμα:
 
 ![gif](https://github.com/courses-ionio/help/blob/master/images/Pullrequest.gif?raw=true)
 
