@@ -12,6 +12,9 @@
 * Στον τίτλο του κάθε **pull request** που κάνετε θα πρέπει να αναφέρετε το είδος του παραδοτέου (π.χ. "**Παραδοτέο 1**").
 * Στα σχόλια του κάθε **pull request** θα πρέπει να συμπεριλαμβάνετε τον **Α.Μ.** και το **ονοματεπώνυμό** σας.
 
+## Πρόσθετες οδηγίες
+
+* [Σύντομες οδηγίες για την αποστολή αναφοράς](https://courses-ionio.github.io/help/submit/).
 * [Εγγραφή στο Github](https://courses-ionio.github.io/help/register/).
 * [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/).
 * [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/).
