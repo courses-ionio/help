@@ -25,7 +25,7 @@
 * [Github pages](https://github.com/courses-ionio/help/tree/master/pages).
 * [Github CLI and GUI](https://github.com/courses-ionio/help/tree/master/cli).
 
-### Διάγραμμα ροής: Γενικές οδηγίες
+### Εποπτικό διάγραμμα ροής
 
 ![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/UntitledDiagramB1.png)
 
