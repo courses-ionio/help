@@ -25,6 +25,8 @@
 
 [Διαδραστική εισαγωγή στο Github](https://github.com/marketplace/github-learning-lab)
 
+[Version Control System: The One Computer Skill](https://ambrevar.xyz/vcs/index.html)
+
 [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 
 [GitHub Guides](https://guides.github.com)
