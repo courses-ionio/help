@@ -7,27 +7,27 @@
 
 ### 2. Κάνε κλικ στο Upload files
 
-![ScreenShot](/help/images/17.png)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/17.png)
 
 ### 3. Επίλεξε από τον υπολογιστή σου το αρχείο που θες να ανεβάσεις.
 ### 4. Κάνε commit changes για να ανέβει το αρχείο στον προσωπικό σου φάκελο και στο προσωπικό σου branch.
 
-![ScreenShot](/help/images/18.png)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/18.png)
 
 ### 5. Το αρχείο που ανέβασες θα εμφανίστει στο φάκελο σου.
 
-![ScreenShot](/help/images/19.png)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/19.png)
 
 ### 6. Επίλεξε στη συνέχεια το αρχείο README.md και κάνε κλικ στο edit ώστε να το επεξεργαστείς. Πρόσθεσε το κατάλληλο κείμενο ώστε να ενσωματώσεις την εικόνα στο αρχείο README.md
 
-![ScreenShot](/help/images/20.png)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/20.png)
 
 ### 7. Αν ακολούθησες σωστά τα παραπάνω βήματα θα βλέπεις την εικόνα cat.jpg ενσωματωμένη στο αρχείο README.md
 
-![ScreenShot](/help/images/21.png)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/21.png)
 
 ### 8. Τέλος, τo μόνο που μένει είναι να συγχρονιστεί το προσωπικό σου branch (201XXXX) με το master branch, οπότε πρέπει πάλι να κάνεις pull request.
 
-![ScreenShot](/help/images/22.png)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/22.png)
 
 _[Επιπλέον πληροφορίες για την προσθήκη εικόνων](http://stackoverflow.com/a/11916467/1633251) στο readme file σας με τη χρήση [relative links](https://help.github.com/articles/relative-links-in-readmes/)_
