@@ -41,4 +41,4 @@
 
 [Git flight rules](https://github.com/k88hudson/git-flight-rules)
 
-![](https://imgs.xkcd.com/comics/git.png)
+![](https://imgs.xkcd.com/comics/git.png?raw=true)
