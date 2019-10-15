@@ -4,7 +4,7 @@
 
 # Εποπτικό διάγραμμα ροής
 
-![ScreenShot](https://raw.githubusercontent.com/courses-ionio/help/master/images/UntitledDiagramB1.png)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/UntitledDiagramB1.png?raw=true)
 
 # Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου
 
