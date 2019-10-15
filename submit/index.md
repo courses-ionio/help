@@ -4,7 +4,7 @@
 
 # Εποπτικό διάγραμμα ροής
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/UntitledDiagramB1.png)
+![ScreenShot](https://github.com/courses-ionio/help/images/UntitledDiagramB1.png)
 
 # Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου
 
@@ -16,31 +16,31 @@
 
 ### 1. Αρχικά επίλεξε το branch του παραδοτέου και στη συνέχεια το αρχείο README.md που βρίσκεται στον προσωπικό σου φάκελο.
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/10.png)
+![ScreenShot](https://github.com/courses-ionio/help/images/10.png)
 
 ### 2. Κάνε κλικ στο μολύβι (Edit this file).
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/11.png)
+![ScreenShot](https://github.com/courses-ionio/help/images/11.png)
 
 ### 3. Πρόσθεσε το κείμενο που θέλεις.
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/12.png)
+![ScreenShot](https://github.com/courses-ionio/help/images/12.png)
 
 ### 4. Μπορείς να δεις σε προεπισκόπηση το αρχείο README.md κάνοντας κλικ στο preview changes. Κάνε commit changes στο προσωπικό σου branch (201XXXX).
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/13.png)
+![ScreenShot](https://github.com/courses-ionio/help/images/13.png)
 
 ### 5. Αν οι αλλαγές που έκανες θες να περαστούν και στο master branch τοτε πρέπει να δημιουργήσεις ένα νέο pull request, για το οποίο θα πρέπει να βάλεις τίτλο το ΑΜ σου και το παραδοτέο.
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/14.png)
+![ScreenShot](https://github.com/courses-ionio/master/images/14.png)
 
 ### 6. Ζήτα το νέο pull request.
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/15.png)
+![ScreenShot](https://github.com/courses-ionio/help/images/15.png)
 
 ### 7. Όταν ο διαχειριστής επιτρέψει τις αλλαγές απαντώντας στο pull request τότε οι αλλαγές στο README.md αρχείο θα εμφανιστούν και στο master branch. Μέχρι να απαντήσει ο διαχειριστής οι αλλαγές θα φαίνεται μόνο στο προσωπικό σου branch (201XXXX).
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/16.png)
+![ScreenShot](https://github.com/courses-ionio/help/images/16.png)
 
 
 _[Ένα απλό Tutorial για τη δημιουργία του readme file/αναφορά της εργασίας σας](https://guides.github.com/features/mastering-markdown/)_
