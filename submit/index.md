@@ -14,16 +14,16 @@
 ![gif](https://github.com/courses-ionio/help/blob/master/images/fork.gif?raw=true)
 
 ### Δημιουργία "drafts" branch
-![gif](https://github.com/courses-ionio/help/blob/master/images/create branch drafts.gif?raw=true)
+![gif](https://github.com/courses-ionio/help/blob/master/images/createbranchdrafts.gif?raw=true)
 
 ### Δημιουργία αρχείου 
 
-![gif](https://github.com/courses-ionio/help/blob/master/images/new file1.gif?raw=true)
-![gif](https://github.com/courses-ionio/help/blob/master/images/new file2.gif?raw=true)
+![gif](https://github.com/courses-ionio/help/blob/master/images/newfile1.gif?raw=true)
+![gif](https://github.com/courses-ionio/help/blob/master/images/newfile2.gif?raw=true)
 
 ### Pull request
 
-![gif](https://github.com/courses-ionio/help/blob/master/images/new file pull request1.gif?raw=true)
+![gif](https://github.com/courses-ionio/help/blob/master/images/newfilepullrequest1.gif?raw=true)
 
 Ακολούθησε τα παρακάτω βήματα για να επεξεργαστείς το αρχείο README.md:
 
