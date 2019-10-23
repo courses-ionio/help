@@ -8,9 +8,22 @@
 
 # Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου
 
-Στο README.md πρέπει να γράψεις την αναφορά της εργασίας σου και μπορείς να προσθέσεις λινκ και εικόνες. [Η δημιουργία φακέλου](http://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git) και επεξεργασία του README.md μπορεί να γίνει από τη σελίδα του Github, όπως φαίνεται στο παρακάτω υπόδειγμα:
 
-![gif](https://github.com/courses-ionio/help/blob/master/images/Pullrequest.gif?raw=true)
+### Fork το αποθετήριο του μαθήματος
+
+![gif](https://github.com/courses-ionio/help/blob/master/images/fork.gif?raw=true)
+
+### Δημιουργία "drafts" branch
+![gif](https://github.com/courses-ionio/help/blob/master/images/create branch drafts.gif?raw=true)
+
+### Δημιουργία αρχείου 
+
+![gif](https://github.com/courses-ionio/help/blob/master/images/newfile1.gif?raw=true)
+![gif](https://github.com/courses-ionio/help/blob/master/images/newfile2.gif?raw=true)
+
+### Pull request
+
+![gif](https://github.com/courses-ionio/help/blob/master/images/new file pull request1.gif?raw=true)
 
 Ακολούθησε τα παρακάτω βήματα για να επεξεργαστείς το αρχείο README.md:
 
