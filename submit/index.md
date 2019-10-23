@@ -18,8 +18,8 @@
 
 ### Δημιουργία αρχείου 
 
-![gif](https://github.com/courses-ionio/help/blob/master/images/newfile1.gif?raw=true)
-![gif](https://github.com/courses-ionio/help/blob/master/images/newfile2.gif?raw=true)
+![gif](https://github.com/courses-ionio/help/blob/master/images/new file1.gif?raw=true)
+![gif](https://github.com/courses-ionio/help/blob/master/images/new file2.gif?raw=true)
 
 ### Pull request
 
