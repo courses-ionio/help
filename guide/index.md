@@ -14,7 +14,7 @@
 
 ## Πρόσθετες οδηγίες
 
-* [Σύντομες οδηγίες για την αποστολή αναφοράς](https://courses-ionio.github.io/help/submit/).
+* [Οδηγίες με εικόνες για την αποστολή αναφοράς](https://courses-ionio.github.io/help/submit/).
 * [Εγγραφή στο Github](https://courses-ionio.github.io/help/register/).
 * [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/).
 * [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/).
