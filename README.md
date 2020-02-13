@@ -2,7 +2,7 @@
 
 [Eγγραφή στην πλατφόρμα του GitHub](https://github.com/join)
 
-Εγγραφή σε θέματα ανακοινώσεων για λήψη ειδοποίησης ([SW](https://github.com/courses-ionio/sw/issues), [CSCW](https://github.com/courses-ionio/cscw/issues))
+Εγγραφή σε θέματα ανακοινώσεων, αποριών, συναντήσεων για λήψη ειδοποίησης ([SW](https://github.com/courses-ionio/sw/issues), [CSCW](https://github.com/courses-ionio/cscw/issues))
 
 [Ατομική αναφορά](deliverables/)
 
