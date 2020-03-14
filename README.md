@@ -1,5 +1,7 @@
 # Οδηγίες
 
+[Τηλεδιάσκεψη](distance/)
+
 [Eγγραφή στην πλατφόρμα του GitHub](https://github.com/join)
 
 Εγγραφή σε θέματα ανακοινώσεων, αποριών, συναντήσεων για λήψη ειδοποίησης [HCI](https://github.com/courses-ionio/hci/issues) [SW](https://github.com/courses-ionio/sw/issues) [MM](https://github.com/courses-ionio/mm/issues) [CSCW](https://github.com/courses-ionio/cscw/issues)
