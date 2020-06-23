@@ -30,6 +30,8 @@
 
 [Atlassian Git Tutorial](https://www.atlassian.com/git)
 
+[First Contributions](https://github.com/firstcontributions/first-contributions)
+
 [How to Use Git and GitHub](https://www.udacity.com/course/ud775)
 
 [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
