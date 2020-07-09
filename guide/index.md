@@ -11,14 +11,16 @@
 
 ## Πρόσθετες οδηγίες
 
-* [Οδηγίες με εικόνες για την αποστολή αναφοράς](https://courses-ionio.github.io/help/submit/).
-* [Εγγραφή στο Github](https://courses-ionio.github.io/help/register/).
-* [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/).
-* [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/).
-* [Προβολή σελίδων](https://courses-ionio.github.io/help/pages/).
-* [Γραμμή εντολών και γραφική διεπαφή](https://courses-ionio.github.io/help/cli/).
+* [Οδηγίες με εικόνες για την αποστολή αναφοράς](https://courses-ionio.github.io/help/submit/)
+* [Εγγραφή στο Github](https://courses-ionio.github.io/help/register/)
+* [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/)
+* [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/)
+* [Προβολή σελίδων](https://courses-ionio.github.io/help/pages/)
+* [Γραμμή εντολών και γραφική διεπαφή](https://courses-ionio.github.io/help/cli/)
 
 ### Git(hub) tutorials and workflow
+
+[Optimizing your profile](https://github.community/t/optimizing-your-github-profile/)
 
 [Διαδραστική εισαγωγή στο Github](https://github.com/marketplace/github-learning-lab)
 
