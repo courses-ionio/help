@@ -6,7 +6,7 @@
 
 **Τα αιτήματα ενσωμάτωσης με αρχεία εικόνων απορρίπτονται**, επομένως τα αρχεία εικόνων θα πρέπει να αποθηκεύονται εξωτερικά:
 
-* [Δημιουργία θέματος στο προσωπικό σας αποθετήριο όπου ανεβάζετε τις εικόνες](https://docs.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests)
+* [Δημιουργία θέματος στο προσωπικό σας αποθετήριο όπου αποθηκεύετε τις εικόνες](https://docs.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests)
 
 
 * Αποθήκευση εικόνας σε εξωτερική υπηρεσία π.χ., Imgur, Dropbox
