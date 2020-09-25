@@ -2,7 +2,7 @@
 
 ## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
 
-[Αντιγράψτε τον παρακάτω πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/help/master/deliverables/index.md) στην σύνοψη της αναφοράς σας (αμέσως μετά τα προσωπικά σας στοιχεία) και (σταδιακά) [προσθέστε εσωτερικά λινκ](https://stackoverflow.com/questions/53091847/github-markdown-anchor-only-linking-to-top-of-the-page) προς τους υπότιτλους (στα αγγλικά) των επιμέρους παραδοτέων σας στην δεύτερη στήλη.
+[Αντιγράψτε τον κώδικα markdown του παρακάτω πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/help/master/deliverables/index.md) στην σύνοψη της αναφοράς σας (αμέσως μετά τα προσωπικά σας στοιχεία) και (σταδιακά) [προσθέστε εσωτερικά λινκ](https://stackoverflow.com/questions/53091847/github-markdown-anchor-only-linking-to-top-of-the-page) προς τους υπότιτλους (στα αγγλικά) των επιμέρους παραδοτέων σας στην δεύτερη στήλη.
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
