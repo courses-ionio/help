@@ -4,7 +4,7 @@
 
 [Eγγραφή στην πλατφόρμα του GitHub](https://github.com/join) **μόνο με το ionio.gr email σας**.
 
-Εγγραφή σε θέματα ανακοινώσεων, αποριών, συναντήσεων για λήψη ειδοποίησης [HCI](https://github.com/courses-ionio/hci/issues) [SW](https://github.com/courses-ionio/sw/issues) [MM](https://github.com/courses-ionio/mm/issues) [CSCW](https://github.com/courses-ionio/cscw/issues) [IV](https://github.com/courses-ionio/iv/issues)
+Εγγραφή σε θέματα ανακοινώσεων, αποριών, συναντήσεων για λήψη ειδοποίησης [HCI](https://github.com/courses-ionio/hci/issues) [SW](https://github.com/courses-ionio/sw/issues) [CSCW](https://github.com/courses-ionio/cscw/issues) [IV](https://github.com/courses-ionio/iv/issues)
 
 [Προθεσμίες παραδοτέων και τελική αναφορά](deliverables/)
 
