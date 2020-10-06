@@ -17,6 +17,8 @@
 
 ### Git(hub) tutorials and workflow
 
+[Mastering markdown](https://guides.github.com/features/mastering-markdown/)
+
 [Optimizing your profile](https://github.community/t/optimizing-your-github-profile/)
 
 [Διαδραστική εισαγωγή στο Github](https://github.com/marketplace/github-learning-lab)
