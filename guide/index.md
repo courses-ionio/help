@@ -9,7 +9,7 @@
 ## Πρόσθετες οδηγίες
 
 * [Οδηγίες με εικόνες για την αποστολή αναφοράς](https://courses-ionio.github.io/help/submit/)
-* [Pull request](https://courses-ionio.github.io/help/Pullrequest/)
+* [Pull request](https://courses-ionio.github.io/help/pullrequest/)
 * [Εγγραφή στο Github](https://courses-ionio.github.io/help/register/)
 * [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/)
 * [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/)
