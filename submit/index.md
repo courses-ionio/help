@@ -10,7 +10,7 @@
 ![gif](https://github.com/courses-ionio/help/blob/master/images/fork.gif?raw=true)
 
 ### Δημιουργία branch
-![gif](https://github.com/courses-ionio/help/blob/master/images/createbranchdrafts.gif?raw=true)
+![gif](https://github.com/courses-ionio/help/blob/master/images/createbranch.gif?raw=true)
 
 ### Δημιουργία αρχείου 
 
