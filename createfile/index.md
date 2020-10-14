@@ -1,6 +1,6 @@
 # Εποπτικό διάγραμμα ροής
 
-![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/UntitledDiagramB1.png?raw=true)
+![ScreenShot](https://github.com/courses-ionio/help/blob/master/images/DiagrammaRoisUpdated.png?raw=true)
 
 # Δημιουργία Αναφοράς (README.md) και υποβολή παραδοτέου
 
