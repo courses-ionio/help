@@ -9,9 +9,6 @@
 
 ![gif](https://github.com/courses-ionio/help/blob/master/images/fork.gif?raw=true)
 
-### Δημιουργία "drafts" branch
-![gif](https://github.com/courses-ionio/help/blob/master/images/createbranchdrafts.gif?raw=true)
-
 ### Δημιουργία αρχείου 
 
 ![gif](https://github.com/courses-ionio/help/blob/master/images/newfile1.gif?raw=true)
