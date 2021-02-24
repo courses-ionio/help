@@ -6,7 +6,7 @@
 
 Εγγραφή σε θέματα ανακοινώσεων, αποριών, συναντήσεων για λήψη ειδοποίησης [HCI](https://github.com/courses-ionio/hci/issues) [SW](https://github.com/courses-ionio/sw/issues) [CSCW](https://github.com/courses-ionio/cscw/issues) [IV](https://github.com/courses-ionio/iv/issues) [IV-UPATRAS](https://github.com/upatras-hci/iv/issues)
 
-[Προθεσμίες παραδοτέων και τελική αναφορά](deliverables/)
+[Περιεχόμενο παραδοτέων και τελικής αναφοράς](deliverables/)
 
 [Οδηγίες για την αποστολή αναφοράς εργασίας](guide/)
 
