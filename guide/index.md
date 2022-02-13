@@ -15,7 +15,7 @@
 * [Προσθήκη εικόνας](https://courses-ionio.github.io/help/image/)
 * [Διαγραφή αρχείου](https://courses-ionio.github.io/help/delete/)
 * [Προβολή σελίδων](https://courses-ionio.github.io/help/pages/)
-* [Γραμμή εντολών και γραφική διεπαφή](https://courses-ionio.github.io/help/cli/)
+* [Γραμμή εντολών και γραφική διεπαφή](https://courses-ionio.github.io/help/github/)
 
 ### Git(hub) tutorials and workflow
 
