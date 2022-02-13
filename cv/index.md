@@ -15,3 +15,6 @@
 ## Σχετικά μορφότυπα και ροές εργασίας για την κατασκευή βιογραφικών
 
 [1](https://github.com/sharu725/online-cv), [2](https://github.com/sproogen/modern-resume-theme), [3](https://github.com/ellekasai/resumecards), [4](https://github.com/plain-plain-text/simple-cv), [5](https://github.com/jglovier/resume-template), [6](https://github.com/blmoore/md-cv), [7](https://github.com/elipapa/markdown-cv), [8](https://jsonresume.org/), [9](https://github.com/bamos/cv), [10](https://github.com/Stavrospanakakis/jekyll-cv), [11](https://github.com/hydecorp/hydejack)
+
+---
+Σε μια πρώτη ανάγνωση, η εργασία αυτή σας βοηθάει να δημιουργήσετε ένα βιογραφικό σε μια δική σας περιοχή πέρα από τις εμπορικές και κυρίως να δημιουργήσετε ομάδες με κοινά ενδιαφέροντα μέσω του webring. Αυτά, αν και είναι πολύ σημαντικά, είναι απλά πλευρικά οφέλη αυτής της εργασίας. Ο βασικός στόχος της εργασίας είναι μια φιλική εισαγωγή στην τεχνολογία λογισμικού μέσα από την κατασκευή μιας ιστοσελίδας. Η εργασία μπορεί να ολοκληρωθεί και χωρίς γνώσεις προγραμματισμού, αλλά θα έχει προσφέρει μια αρχική έκθεση στα συστήματα ελέγχου εκδόσεων πηγαίου κώδικα (CVS), καθώς και στα συστήμα συνεχούς ολοκλήρωσης (CI).
