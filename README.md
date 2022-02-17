@@ -1,8 +1,8 @@
 # Οδηγίες
 
-1. [Eγγραφή στην πλατφόρμα του GitHub](https://github.com/join) **με το ionio.gr email σας για να πάρετε την [προσφορά για φοιτητές](https://education.github.com/pack/join)**.
-2. [Οδηγίες για την αποστολή αναφοράς εργασίας](https://courses-ionio.github.io/help/guide/)
-3. [Περιεχόμενο παραδοτέων και τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/)
+1. [Eγγραφή στην πλατφόρμα του GitHub](https://courses-ionio.github.io/help/register/).
+2. [Οδηγίες για την αποστολή αναφοράς εργασίας](https://courses-ionio.github.io/help/guide/).
+3. [Περιεχόμενο παραδοτέων και τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/).
 
 # Απορίες και (ασύγχρονα ψηφιακά) φροντιστήρια 
 
