@@ -12,7 +12,7 @@
 
 ## Μπόνους ένας βαθμός, Α. 6η εβδομάδα, Β. 12η εβδομάδα $$$, HCI, CSCW, IV, SW
 
-Να αναπτύξετε μια από τις [αρχικές εκπαιδευτικές εφαρμογές που έτρεχαν στο Xerox Alto](http://worrydream.com/EarlyHistoryOfSmalltalk/#smalltalkAndChildren), όπως ήταν το πρόγραμμα ζωγραφικής, η προσομοίωση της κίνησης του αλόγου, το βιντεοπαιχνίδι space war, με χρήση του συστήματος [Squeak](https://squeak.org).
+Να αναπτύξετε μια από τις [αρχικές εκπαιδευτικές εφαρμογές που έτρεχαν στο Xerox Alto](http://worrydream.com/EarlyHistoryOfSmalltalk/#smalltalkAndChildren), όπως ήταν το πρόγραμμα ζωγραφικής, η προσομοίωση της κίνησης του αλόγου, το βιντεοπαιχνίδι space war, με χρήση του συστήματος [Squeak](https://squeak.org), [σύντομη εισαγωγή](https://www.cl.cam.ac.uk/teaching/2002/CompProgLangs/smalltalk.html).
 
 ## Μπόνους ένας βαθμός, Α. 6η εβδομάδα, Β. 12η εβδομάδα $$$, HCI, CSCW, IV, SW
 
